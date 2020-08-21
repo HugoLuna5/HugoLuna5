@@ -18,7 +18,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoLuna5)](https://github.com/HugoLuna5/github-readme-stats)
 
 
-
 [twitter]: https://twitter.com/Hugo_Luna5
 [instagram]: https://instagram.com/hugoluna5
 [linkedin]: https://linkedin.com/in/hugodariolc
