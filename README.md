@@ -15,7 +15,7 @@
 ---
 
 <img align="left" alt="HugoLuna5's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HugoLuna5&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoLuna5)](https://github.com/HugoLuna5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoLuna5)]
 
 
 [twitter]: https://twitter.com/Hugo_Luna5
