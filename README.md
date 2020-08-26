@@ -1,4 +1,4 @@
-### Hi, I'm Hugo Luna, I'm an engineering student in computer systems👋
+### Hi, I'm Hugo Luna, an engineering student in computer systems👋
 
 
 ### Connect with me:
