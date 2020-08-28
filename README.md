@@ -10,6 +10,10 @@
 
 ---
 
+### Spotify Playing 🎧
+
+[<img src="https://novatorem.hugoluna.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/qynm32a62tmp1vfpgxiwhsm2h)
+
 
 
 <details>
