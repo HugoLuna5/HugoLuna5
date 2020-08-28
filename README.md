@@ -15,6 +15,9 @@
 [![Top Langs](https://github-readme-stats-git-master.hugoluna.vercel.app/api/top-langs/?username=HugoLuna5)](https://github.com/HugoLuna5/github-readme-stats)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//HugoLuna5/Rumiantes/pull/1) in [HugoLuna5/Rumiantes](https://github.com//HugoLuna5/Rumiantes)
+2. 💪 Opened PR [#1](https://github.com//HugoLuna5/Rumiantes/pull/1) in [HugoLuna5/Rumiantes](https://github.com//HugoLuna5/Rumiantes)
+<!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/Hugo_Luna5
 [instagram]: https://instagram.com/hugoluna5
