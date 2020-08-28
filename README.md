@@ -10,14 +10,25 @@
 
 ---
 
-<img align="left" alt="HugoLuna5's Github Stats" src="https://github-readme-stats-git-master.hugoluna.vercel.app/api?username=HugoLuna5&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats-git-master.hugoluna.vercel.app/api/top-langs/?username=HugoLuna5)](https://github.com/HugoLuna5/github-readme-stats)
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//HugoLuna5/Rumiantes/pull/1) in [HugoLuna5/Rumiantes](https://github.com//HugoLuna5/Rumiantes)
-2. 💪 Opened PR [#1](https://github.com//HugoLuna5/Rumiantes/pull/1) in [HugoLuna5/Rumiantes](https://github.com//HugoLuna5/Rumiantes)
 <!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="HugoLuna5's Github Stats" src="https://github-readme-stats-git-master.hugoluna.vercel.app/api?username=HugoLuna5&show_icons=true&hide_border=true" />
+
+  [![Top Langs](https://github-readme-stats-git-master.hugoluna.vercel.app/api/top-langs/?username=HugoLuna5)](https://github.com/HugoLuna5/github-readme-stats)
+
+</details>
+
 
 [twitter]: https://twitter.com/Hugo_Luna5
 [instagram]: https://instagram.com/hugoluna5
