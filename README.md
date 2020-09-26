@@ -20,8 +20,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//HugoLuna5/Rumiantes/pull/1) in [HugoLuna5/Rumiantes](https://github.com//HugoLuna5/Rumiantes)
-2. 💪 Opened PR [#1](https://github.com//HugoLuna5/Rumiantes/pull/1) in [HugoLuna5/Rumiantes](https://github.com//HugoLuna5/Rumiantes)
+1. 🎉 Merged PR [#1](https://github.com/HugoLuna5/Rumiantes/pull/1) in [HugoLuna5/Rumiantes](https://github.com/HugoLuna5/Rumiantes)
+2. 💪 Opened PR [#1](https://github.com/HugoLuna5/Rumiantes/pull/1) in [HugoLuna5/Rumiantes](https://github.com/HugoLuna5/Rumiantes)
 <!--END_SECTION:activity-->
 
 </details>
